@@ -13,4 +13,4 @@ Application provides  transformation to 'cm' unit.
 To predict son's height click 'Go!' button.
 Scatter plot with father.son dataset is shown and predicted son's height for given father's height is represented by red lines.
 
-Source code is available on the [GitHub](https://github.com/pkovar-git).
+Source code is available on the [GitHub](https://github.com/pkovar-git/DataProduct).
