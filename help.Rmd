@@ -1,0 +1,16 @@
+---
+title: "Son's height help"
+output: html_document
+---
+
+## Documentation
+This is a simple application for  prediction of son's height from father's height.
+Prediction is based on linear regression model which was built using father.son dataset.
+
+### How to use it..
+Horizontal slider can be used to pick-up father's height. Slider's unit is 'inch'. 
+Application provides  transformation to 'cm' unit. 
+To predict son's height click 'Go!' button.
+Scatter plot with father.son dataset is shown and predicted son's height for given father's height is represented by red lines.
+
+Source code is available on the [GitHub](https://github.com/pkovar-git).
